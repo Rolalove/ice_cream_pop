@@ -489,7 +489,6 @@ button{
 
 @media only screen and (max-width: 1024px){
       .background_container{
-            overflow-x: hidden;
             display: block;
             margin: 0px;
             border-radius: 0px;
@@ -723,7 +722,6 @@ button{
 
 @media only screen and (max-width: 550px){
       .background_container{
-            overflow-x: hidden;
             display: block;
             margin: 0px;
             border-radius: 0px;
@@ -785,7 +783,7 @@ button{
             display: none;
       }
       .ice_cream_break{
-            margin-top: 110px;
+            margin-top: 70px;
             max-height: 30vh;
             min-height: 25vh;
       }
@@ -931,5 +929,8 @@ button{
             font-size: 16px;
             padding: 6px;
             margin-bottom: 10px;
+      }
+       .name{
+            margin-top: 20px;
       }
 }
